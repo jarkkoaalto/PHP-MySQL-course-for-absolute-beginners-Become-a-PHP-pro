@@ -38,7 +38,7 @@ CREATE TABLE users(
 );
 ```
 
-![](./images/login.png =200x100)
-![](./images/register.png =200x100)
-![](./images/home_logging_in.png =200x100)
-![](./images/login_error.png =200x100)
+![screenshot](./images/login.png =200x100)
+![screenshot](./images/register.png =200x100)
+![screenshot](./images/home_logging_in.png =200x100)
+![screenshot](./images/login_error.png =200x100)
